@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
     public void onClick(View view){
         switch(view.getId()){
             case R.id.git:
-                Uri gitRepoUri = Uri.parse("https://google.com");//repoURL
+                Uri gitRepoUri = Uri.parse("https://github.com/blinikar/TimeToUGE");//repoURL
                 Intent gitRepo = new Intent(Intent.ACTION_VIEW, gitRepoUri);
                 // Verify that the intent will resolve to an activity
                 if (gitRepo.resolveActivity(getPackageManager()) != null) {
