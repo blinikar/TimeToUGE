@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Время до ЕГЭ</string>
+    <string name="toTest">Осталось до итогового сочинения Единого Государственного Экзамена</string>
+    <string name="info">Приложение накодил Егор Блинов в 2020 году</string>
+    <string name="git">Распространяется по GNU GPL v3\nРепозиторий на GitHub</string>
+
+    <string name="hoursText">Часов</string>
+    <string name="minutesText">Минут</string>
+    <string name="secondsText">Секунд</string>
+</resources>
